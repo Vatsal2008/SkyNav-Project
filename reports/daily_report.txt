@@ -1,0 +1,7 @@
+SkyNav Aviation - Daily Financial Report
+Generated: 2026-01-25 10:50:59
+==========================================
+Total Bookings Income: $1400.00
+Total Refunds:         $810.00
+Net Profit:            $590.00
+Total Transactions:    3
